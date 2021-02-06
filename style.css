@@ -1,0 +1,7 @@
+  body{background-color:#A9A9A9}
+  #divc{background-color:#B0E0E6; text-align:center; border: 3px solid black; height:390px; width:270px; margin: 0 auto; padding:3px; box-shadow: 10px 5px 5px #303030; } 
+  Label{font-family:courier;}
+  Button{color:white;background-color:black;text-align:center}
+  #aprovou{font-family:courier;}
+  #outro{background-color:#B0E0E6; vertical-align:center; border: 3px solid black; position: relative;top: 50%;transform: translateY(-100%); padding: 3px; height:390px; width:270px; padding:3px; box-shadow: 10px 5px 5px #303030; }
+  
